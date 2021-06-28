@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Music Player (PJ-MS.Hayden)</string>
+
+    <string name="notification_isPlaying">Is playing:</string>
+
+    <string name="main_toolbar_play">Play</string>
+    <string name="main_toolbar_shuffle">Shuffle</string>
+    <string name="main_toolbar_end">End</string>
+</resources>

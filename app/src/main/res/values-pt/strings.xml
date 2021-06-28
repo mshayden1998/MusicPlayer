@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tocador de Música (PJ-MS.Hayden)</string>
+
+    <string name="notification_isPlaying">Está tocando:</string>
+
+    <string name="main_toolbar_play">Tocar</string>
+    <string name="main_toolbar_shuffle">Aleatório</string>
+    <string name="main_toolbar_end">Sair</string>
+</resources>

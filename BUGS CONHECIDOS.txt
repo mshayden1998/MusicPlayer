@@ -1,0 +1,5 @@
+(28/Dezembro/2016)-github.com/mshayden1998
+*ao abrir o app pela notificação o player se sobrepoe ao avançar para a próxima música;
+*o shuffle (aleatório) não funciona;
+*o botão para pular para a próxima música pula 4 músicas;
+*ao tocar em uma música pela primeira vez, o botão de pause não é mostrado.

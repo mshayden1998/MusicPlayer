@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:MusicPlayer="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_shuffle"
+        android:icon="@drawable/rand"
+        android:orderInCategory="1"
+        MusicPlayer:showAsAction="ifRoom"
+        android:title="@string/main_toolbar_shuffle"/>
+
+    <item
+        android:id="@+id/action_end"
+        android:icon="@drawable/end"
+        android:orderInCategory="2"
+        MusicPlayer:showAsAction="always"
+        android:title="@string/main_toolbar_end"/>
+
+    <item
+        android:id="@+id/action_play"
+        android:icon="@drawable/play"
+        android:orderInCategory="3"
+        MusicPlayer:showAsAction="ifRoom"
+        android:title="@string/main_toolbar_play"/>
+</menu>
